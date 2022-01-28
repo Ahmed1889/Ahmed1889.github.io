@@ -8639,6 +8639,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #aab4c3;
 }
 
+.resume-position-tech {
+  font-size: 0.875rem;
+  color: #434E5E;
+}
+
 .resume-position-title {
   font-size: 1.125rem;
   color: #434E5E;
